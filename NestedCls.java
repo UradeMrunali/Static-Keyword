@@ -1,5 +1,3 @@
-
-
 class Demo
 {
 	 static class MyDemo
