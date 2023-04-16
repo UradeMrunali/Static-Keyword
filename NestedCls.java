@@ -3,7 +3,7 @@
 class Demo
 {
 	 static class MyDemo
-	{
+{
 		void myfun()
 		{
 			System.out.println("this is in mydemo cls");
