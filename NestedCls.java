@@ -1,12 +1,12 @@
 class Demo
 {
-	 static class MyDemo
+ static class MyDemo
 {
 		void myfun()
-		{
+{
 			System.out.println("this is in mydemo cls");
-		}
-	}
+}
+}
 	
 	void fun()
 	{
